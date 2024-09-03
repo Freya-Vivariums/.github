@@ -2,7 +2,7 @@
 
 <img src="../documentation/vivarium.png" align="right" width="40%"/>
 
-The **Freya Vivarium control System** is ...
+The **Freya Vivarium Control System** is ...
 
 
 
