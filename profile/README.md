@@ -7,3 +7,15 @@ A vivarium offers a means to introduce the tranquility and rythms of the natural
 The **Freya Vivarium Control System** is designed to help manage and maintain the environment within your vivarium, using advanced climate control to support its natural cycles.
 
 <br clear="right"/>
+
+## Getting started
+
+TODO: The recommended hardware system
+
+### Installation
+On your device, install the Freya Vivarium Control System software by downloading and executing the installation script
+```
+wget -O install.sh https://github.com/Freya-Vivariums/Freya-core/releases/latest/download/install.sh;
+chmod +x ./install.sh;
+sudo ./install.sh;
+```
