@@ -7,8 +7,8 @@ A vivarium offers a means to introduce the tranquility and rythms of the natural
 The **Freya Vivarium Control System** helps manage and maintain the environment within your vivarium, using advanced climate control to support natural cycles. By processing data from sensors within the vivarium, such as temperature, humidity and light levels, Freya calculates the necessary actions for the actuators - such as heaters, humidifiers and lighting - to maintain the desired conditions.
 
 #### Features
-- **Climate control** Freya monitors and adjust several variables to mimic natural environments
-- **Configurable cycles** for day/night and seasons
+- **Climate control** for several environment variables, mimicing the natural environment.
+- **Configurable cycles** for simulating day/night and seasonal changes.
 - **Set it and forget it** by design. Operating quietly in the background, maintaining optimal conditions
 
 
