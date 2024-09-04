@@ -12,7 +12,7 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 - **Set it and forget it** by design. Operating quietly in the background, maintaining optimal conditions
 <div clear="right"/>
 
-### Extended usecases
+### Alternate usecases
 - **Greenhouse automation** and precision agriculture for optimized plant growth.
 - **Distributed research** on the effects of climate(change) and the adaptability of living organisms.
 - **Nature preservation** by providing controlled habitats for species from endagered environments.
