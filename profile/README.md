@@ -10,7 +10,6 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 - **Climate control** for several environment variables, mimicing the natural environment.
 - **Configurable cycles** for simulating day/night and seasonal changes.
 - **Set it and forget it** by design. Operating quietly in the background, maintaining optimal conditions
-
 <br clear="right"/>
 
 ### Extended usecases
