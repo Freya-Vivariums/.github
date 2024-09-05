@@ -12,7 +12,7 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 - **Set it and forget it** by design. Operating quietly in the background, maintaining optimal conditions
 <div clear="right"/>
 
-### Alternate usecases
+### Alternate use cases
 - **Greenhouse automation** and precision agriculture for optimized plant growth.
 - **Distributed research** on the effects of climate(change) and the adaptability of living organisms.
 - **Nature preservation** by providing controlled habitats for species from endagered environments.
@@ -31,3 +31,7 @@ wget -O install.sh https://github.com/Freya-Vivariums/Freya-core/releases/latest
 chmod +x ./install.sh;
 sudo ./install.sh;
 ```
+
+## Support
+<a href="https://www.patreon.com/bePatron?u=56439168" target="_blank"><img src="../documentation/patreon-300x81.png" /></a>
+
