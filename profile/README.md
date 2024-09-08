@@ -15,7 +15,7 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 ### Alternate use cases
 - **Greenhouse automation** and precision agriculture for optimized plant growth.
 - **Distributed research** on the effects of climate(change) and the adaptability of living organisms.
-- **Nature preservation** by providing controlled habitats for species from endagered environments.
+- **Nature preservation** by providing controlled habitats for species from endangered environments.
 
 ## Getting started
 To run the Freya Vivarium Control System software, a GNU/Linux system is required. For interactions with the physical world, sensors and actuators need to be interfaced with the software.
