@@ -32,7 +32,7 @@ chmod +x ./install.sh;
 sudo ./install.sh;
 ```
 
-## Support
+## Support us
 
 <a href="https://www.patreon.com/bePatron?u=56439168" target="_blank">
     <img src="../documentation/patreon-300x81.png" align="right" width="20%"/>
