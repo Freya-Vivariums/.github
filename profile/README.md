@@ -38,6 +38,6 @@ sudo ./install.sh;
     <img src="../documentation/patreon-300x81.png" align="right" width="20%"/>
 </a>
 
-The **Freya Vivarium Control System** is open source and free to use. If you'd like to support its development, consider contributing in code or throught patreon.
+The **Freya Vivarium Control System** is open source and free to use. If you'd like to support its development, consider contributing in code or through patreon.
 
 <div clear="right"/>
