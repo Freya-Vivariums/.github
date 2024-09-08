@@ -33,5 +33,11 @@ sudo ./install.sh;
 ```
 
 ## Support
-<a href="https://www.patreon.com/bePatron?u=56439168" target="_blank"><img src="../documentation/patreon-300x81.png" /></a>
 
+<a href="https://www.patreon.com/bePatron?u=56439168" target="_blank">
+    <img src="../documentation/patreon-300x81.png" align="right" width="20%"/>
+</a>
+
+The **Freya Vivarium Control System** is open source and free to use. If you'd like to support its development, consider contributing in code or throught patreon.
+
+<div clear="right"/>
