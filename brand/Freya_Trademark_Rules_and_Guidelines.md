@@ -7,7 +7,7 @@ We have established trademarks and design rights to protect how our brand is use
 1) The word "Freya", which we refer to as the **Freya Word Mark**
 2) Following visual, which we refer to as the **Freya Symbol**
 
-![Freya Logo](https://github.com/Freya-Vivariums/.github/blob/main/brand/Freya_logo.png?raw=true)
+<img src="https://github.com/Freya-Vivariums/.github/blob/main/brand/Freya_logo.png?raw=true" height="128" />
 
 3) Following visual, which we refer to as the **Freya Logo**
 
