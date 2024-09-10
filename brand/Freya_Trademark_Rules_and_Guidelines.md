@@ -24,4 +24,4 @@ When you have obtained explicit written permission from Freya Vivariums for usin
 ![Freya Branding Design guideline](https://github.com/Freya-Vivariums/.github/blob/main/brand/Freya_brand_sheet.png?raw=true)
 <br/><br/>
 
-You can find the **Freya Symbol** and the **Freya Logo** in this repository. Whenever possible, use the **Freya Symbol** or **Freya Logo** in their respective colors. When diverging from these guidelines, please consult with the Freya Vivariums project owners.
+You can find the **Freya Symbol** and the **Freya Logo** in this repository. Whenever possible, use the **Freya Symbol** or **Freya Logo** in their respective colors on a dark background. When diverging from these guidelines, please consult with the Freya Vivariums project owners.
