@@ -21,7 +21,7 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 To run the Freya Vivarium Control System software, a GNU/Linux system is required. For interactions with the physical world, sensors and actuators need to be interfaced with the software.
 
 ### Recommended hardware
-TODO
+The recommended system for use as a Freya Vivarium Control System is the Raspberry Pi, expanded with the [Edgeberry Base Board](https://github.com/Edgeberry/Edgeberry-hardware) and the [Edgeberry Sense'n'Drive Hardware Cartridge](https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge).
 
 
 ### Software installation
