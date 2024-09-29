@@ -18,6 +18,9 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 - **Nature preservation** by providing controlled habitats for species from endangered environments.
 
 ## Getting started
+
+<img src="../documentation/controlsystem_setup.jpg" align="right" width="40%"/>
+
 To run the Freya Vivarium Control System software, a GNU/Linux system is required. For interactions with the physical world, sensors and actuators need to be interfaced with the software.
 
 ### Recommended hardware
@@ -31,6 +34,7 @@ wget -O install.sh https://github.com/Freya-Vivariums/Freya-core/releases/latest
 chmod +x ./install.sh;
 sudo ./install.sh;
 ```
+<div clear="right"/>
 
 ## Support us
 
