@@ -1,4 +1,4 @@
-![Edgeberry banner](../documentation/Freya_banner.png)
+![Edgeberry banner](https://raw.githubusercontent.com/Freya-Vivariums/.github/refs/heads/main/brand/Freya_banner.png)
 
 <img src="../documentation/Freya_vivarium.png" align="right" width="40%"/>
 
@@ -10,31 +10,20 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 - **Climate control** for several environment variables, mimicing the natural environment.
 - **Configurable cycles** for simulating day/night and seasonal changes.
 - **Set it and forget it** by design. Operating quietly in the background, maintaining optimal conditions
-<div clear="right"/>
+<br clear="right"/>
 
 ### Alternate use cases
 - **Greenhouse automation** and precision agriculture for optimized plant growth. (e.g. growing potatoes on Mars)
 - **Distributed research** on the effects of climate(change) and the adaptability of living organisms.
 - **Nature preservation** by providing controlled habitats for species from endangered environments.
 
-## Getting started
+## Freya Vivarium Control System
 
-<img src="../documentation/controlsystem_setup.jpg" align="right" width="40%"/>
+<img src="../documentation/Freya_hardware.jpg" align="right" width="40%"/>
 
-To run the Freya Vivarium Control System software, a GNU/Linux system is required. For interactions with the physical world, sensors and actuators need to be interfaced with the software.
+Some interesting text about the vivarium control system lorem ipsum dolores si amet ...
 
-### Recommended hardware
-The recommended system for use as a Freya Vivarium Control System is the Raspberry Pi, expanded with the [Edgeberry Base Board](https://github.com/Edgeberry/Edgeberry-hardware) and the [Edgeberry Sense'n'Drive Hardware Cartridge](https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge).
-
-
-### Software installation
-On your device, install the Freya Vivarium Control System software by downloading and executing the installation script
-```
-wget -O install.sh https://github.com/Freya-Vivariums/Freya-core/releases/latest/download/install.sh;
-chmod +x ./install.sh;
-sudo ./install.sh;
-```
-<div clear="right"/>
+<br clear="right"/>
 
 ## Support us
 
