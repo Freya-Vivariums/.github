@@ -19,7 +19,17 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 
 ## Freya Vivarium Control System
 
-<img src="../documentation/Freya_hardware.jpg" align="right" width="40%"/>
+<img src="../documentation/Freya_System_800x800.jpg" align="right" width="40%"/>
+
+Some interesting text about the vivarium control system lorem ipsum dolores si amet ...
+
+<br clear="right"/>
+<img src="../documentation/Freya_Sensor_800x800.jpg" align="left" width="40%"/>
+
+Some interesting text about the vivarium control system lorem ipsum dolores si amet ...
+
+<br clear="left"/>
+<img src="../documentation/Freya_Controller_back_800x800.jpg" align="right" width="40%"/>
 
 Some interesting text about the vivarium control system lorem ipsum dolores si amet ...
 
