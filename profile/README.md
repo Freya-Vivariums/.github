@@ -1,6 +1,6 @@
 ![Edgeberry banner](https://raw.githubusercontent.com/Freya-Vivariums/.github/refs/heads/main/brand/Freya_banner.png)
 
-<img src="../documentation/Freya_vivarium.png" align="right" width="40%"/>
+<img src="../documentation/Freya_vivarium.png" align="right" width="30%"/>
 
 A vivarium brings the tranquility and rythms of the natural world into your living space. It fosters a deep human connection to nature by introducing an authentic living presence into our modern life.
 
