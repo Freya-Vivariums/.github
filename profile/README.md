@@ -44,6 +44,6 @@ The Freya Sensor is installed in the vivarium for measuring environment variable
     <img src="../documentation/patreon-300x81.png" align="right" width="20%"/>
 </a>
 
-The **Freya Vivarium Control System** is open source and free to use. If you'd like to support its development, consider contributing in code or become a Patreon.
+The **Freya Vivarium Control System** is open source and free to use. The organization behind Freya will never hold back features behind a paywall. All the hardware designs, software, and flows are open for anyone to use, modify, and share. If you want to support its development and maintenance, consider contributing in code or become a Patreon.
 
 <div clear="right"/>
