@@ -40,6 +40,9 @@ The Freya Sensor is installed in the vivarium for measuring environment variable
 
 <br clear="right"/>
 
+## Community
+Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivariums/).
+
 ## Support us
 
 <a href="https://www.patreon.com/bePatron?u=56439168" target="_blank">
