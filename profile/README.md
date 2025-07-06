@@ -40,7 +40,13 @@ Freya’s intuitive dashboard gives you real-time insight into your vivarium’s
 
 <br clear="right"/>
 
-## Community
+## Getting Started
+### Freya Hardware
+
+### Freya Software
+
+### Freya Community
+
 Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivariums/).
 
 ## Support us
