@@ -24,13 +24,13 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 <img src="../documentation/Freya_System_800x800.jpg" align="right" width="40%"/>
 
 ### The brain of your vivarium
-The Freya Vivarium Control system is a computersystem dedicated to managing the environment in vivariums. Lorem ipsum dolores si amet ...
+The Freya Vivarium Control System is a computersystem dedicated to managing the environment in vivariums. Lorem ipsum dolores si amet ...
 
 <br clear="right"/>
-<img src="../documentation/Freya_Sensor_800x800.jpg" align="left" width="40%"/>
+<img src="../documentation/Feya_flow_editor.png" align="left" width="40%"/>
 
-### Sensing & Controlling
-The Freya Sensor is installed in the vivarium for measuring environment variables. Some interesting information about controlling several actuators. Lorem ipsum dolores si amet ...
+### The mind of your vivarium
+The Freya Vivarium Control System is build on Node-RED. Lorem ipsum ...
 
 <br clear="left"/>
 <img src="../documentation/Freya_Webinterface_800x800.png" align="right" width="40%"/>
