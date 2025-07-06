@@ -27,7 +27,7 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 The Freya Vivarium Control System is a computersystem dedicated to managing the environment in vivariums. Lorem ipsum dolores si amet ...
 
 <br clear="right"/>
-<img src="../documentation/Feya_flow_editor.png" align="left" width="40%"/>
+<img src="../documentation/Freya_flow_editor.png" align="left" width="40%"/>
 
 ### The mind of your vivarium
 The Freya Vivarium Control System is build on Node-RED. Lorem ipsum ...
