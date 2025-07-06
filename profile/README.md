@@ -24,19 +24,19 @@ The **Freya Vivarium Control System** helps manage and maintain the environment 
 <img src="../documentation/Freya_System_800x800.jpg" align="right" width="40%"/>
 
 ### The brain of your vivarium
-The Freya Vivarium Control System is a computersystem dedicated to managing the environment in vivariums. Lorem ipsum dolores si amet ...
+The Freya Vivarium Control System is a dedicated computer system engineered to monitor and regulate the environmental conditions inside vivariums. Built on robust hardware with modular expansion capabilities, it provides a reliable foundation for automating natural habitats — so you can focus on your animals and ecosystems.
 
 <br clear="right"/>
 <img src="../documentation/Freya_flow_editor.png" align="left" width="40%"/>
 
 ### The mind of your vivarium
-The Freya Vivarium Control System is build on Node-RED. Lorem ipsum ...
+Freya is powered by Node-RED, an open-source flow-based programming tool that makes it easy to define, customize, and expand your vivarium’s logic. Whether you’re setting up temperature gradients, humidity cycles, or complex circadian lighting, Node-RED allows you to tailor the behavior to your exact needs without deep programming experience.
 
 <br clear="left"/>
 <img src="../documentation/Freya_Webinterface_800x800.png" align="right" width="40%"/>
 
 ### Software Application
-
+Freya’s intuitive dashboard gives you real-time insight into your vivarium’s conditions. Monitor temperature, humidity, lighting, and more — all with clear visualizations and historical trends. Fine-tune settings, view schedules, and ensure your vivarium stays within safe thresholds, directly from your browser.
 
 <br clear="right"/>
 
