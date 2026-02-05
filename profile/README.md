@@ -52,4 +52,6 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 ## Support us
 
 The **Freya Vivarium Control System is open source and free to use**. The organization behind Freya will never lock features behind a paywall. All hardware designs, software, and flows are open for anyone to use, modify, and share.
-If you’d like to support its development and maintenance, you can contribute code — or **become a Sponsor** to help sustain and grow the project.
+If you’d like to support its development and maintenance, you can contribute code — or make a donation through [GitHub Sponsors](https://github.com/sponsors/Freya-Vivariums) - however small, it's appreciated!
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Freya-Vivariums)
