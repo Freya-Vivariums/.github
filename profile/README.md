@@ -20,7 +20,9 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 <img src="../documentation/Freya_control_loop.png" align="left" width="50%"/>
 
-Freya combines modular hardware with Node-RED flow-based programming and an intuitive web dashboard. Monitor and control your vivarium's environment from any browser, with real-time data and customizable automation.
+The [Freya Terra Sensor](https://github.com/Freya-Vivariums/Freya-Terra-Sensor) monitors environmental conditions in the vivarium.
+[Freya Sense'n'Drive Hardware Cartridge](https://github.com/Freya-Vivariums/Freya-SenseAndDrive-Hardware-Cartridge) connects the sensor to the controller and provides outputs for controlling actuators like misting pumps, lighting, ... .
+[Freya Node-RED Flow]() is the control logic programmed in a visual manner. Create rules and schedules that translate sensor readings into output commands - as simple or complex as your methodology requires.
 
 <br clear="left"/>
 
