@@ -17,7 +17,12 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 ## How It Works
 
+
+<img src="../documentation/Freya_control_loop.png" align="left" width="32%"/>
+
 Freya combines modular hardware with Node-RED flow-based programming and an intuitive web dashboard. Monitor and control your vivarium's environment from any browser, with real-time data and customizable automation.
+
+<br clear="left"/>
 
 ## Support us
 
