@@ -4,12 +4,16 @@
 <img src="../documentation/Freya_vivarium.png" align="right" width="32%"/>
 </a>
 
-Whether you're bringing the tranquility and rhythms of the natural world into your living space or professionally keeping tropical wildlife, the **Freya Vivarium Control System** automates climate control to maintain optimal conditions, managing temperature, humidity, lighting, and more.
+Whether you keep a living ecosystem in your home or manage vivariums professionally, the **Freya Vivarium Control System** takes care of orchestrating the climate variables so you can focus on the life inside. It monitors environmental conditions and translates sensor readings into actuator control commands through user-defined logic - as simple or complex as your methodology requires.
 
 #### Key Features
-- **Climate control out-of-the-box** - Ready-to-use automation for natural environments
-- **Open source** - All hardware designs, software, and flows are freely available
-- **Node-RED based** - Explore, adapt, and customize the inner workings to your needs
+- **Methodology-agnostic vivarium control** - Define your own environment simulation logic. Freya provides the measurements, the actuator outputs, and the framework; you provide the knowledge and methodology.
+- **Co-creation platform** - Every layer of the system is modular and designed to facilitate independent evolution through collaborative creation. Freya is built to grow through its community.
+- **Open in its foundations** - hardware, software, mechanical designs, and documentation are published under open source licenses and built with open source tools, on top of open source platforms.
+
+- **Vivarium automation that just works out of the box** - Ready-to-use automation for vivarium environments, including a configuration dashboard.
+- **Designed for collaboration and co-creation** - Everything is modular in a way that facilitates small localized evolutions across several disciplines
+- **Build with openness in its foundations** - Standing on the shoulders of open source giants, the Freya project is fully open source, made with open source tools.
 
 Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivariums/).
 
