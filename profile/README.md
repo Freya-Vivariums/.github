@@ -11,10 +11,6 @@ Whether you keep a living ecosystem in your home or manage vivariums professiona
 - **Co-creation platform** - Every layer of the system is modular and designed to facilitate independent evolution through collaborative creation. Freya is built to grow through its community.
 - **Open in its foundations** - hardware, software, mechanical designs, and documentation are published under open source licenses and built with open source tools, on top of open source platforms.
 
-- **Vivarium automation that just works out of the box** - Ready-to-use automation for vivarium environments, including a configuration dashboard.
-- **Designed for collaboration and co-creation** - Everything is modular in a way that facilitates small localized evolutions across several disciplines
-- **Build with openness in its foundations** - Standing on the shoulders of open source giants, the Freya project is fully open source, made with open source tools.
-
 Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivariums/).
 
 <br clear="right"/>
