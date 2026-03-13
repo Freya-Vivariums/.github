@@ -4,7 +4,7 @@
 <img src="../documentation/Freya_vivarium.png" align="right" width="32%"/>
 </a>
 
-Whether you keep a living ecosystem in your home or manage vivariums professionally, the **Freya Vivarium Control System** takes care of orchestrating the climate variables so you can focus on the life inside. It monitors environmental conditions and translates sensor readings into actuator control commands through user-defined logic - as simple or complex as your methodology requires.
+Whether you keep a living ecosystem in your home or manage vivariums professionally, the **Freya Vivarium Control System** takes care of orchestrating the climate variables allowing you to focus fully on the life inside. It monitors environmental conditions and translates sensor readings into actuator control commands through user-defined logic - as simple or complex as your methodology requires.
 
 #### Key Features
 - **Methodology-agnostic vivarium control** - Define your own environment simulation logic. Freya provides the measurements, the actuator outputs, and the framework; you provide the knowledge and methodology.
@@ -16,7 +16,6 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 <br clear="right"/>
 
 ## How It Works
-
 
 <img src="../documentation/Freya_control_loop.png" align="left" width="50%"/>
 
