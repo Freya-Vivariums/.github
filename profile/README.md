@@ -19,13 +19,13 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 <img src="../documentation/Freya_control_loop.png" align="left" width="50%"/>
 
-Freya's architecture is built around the measure-and-control cycle - the same approach used across climate control, agriculture, and industrial automation - applied to vivarium environments.
+Freya's architecture is built around the **monitor and control loop** - the same approach used across climate control, agriculture, and industrial automation - applied to vivarium environments.
 
-The [Freya Terra Sensor](https://github.com/Freya-Vivariums/Freya-Terra-Sensor) is positioned in vivarium, and measures the conditions (temperature, humidity, ...).
+The [Freya Terra Sensor](https://github.com/Freya-Vivariums/Freya-Terra-Sensor) is positioned in vivarium, and **measures the conditions** (temperature, humidity, ...).
 
-In the Freya Controller, the [Freya Sense'n'Drive Hardware Cartridge](https://github.com/Freya-Vivariums/Freya-SenseAndDrive-Hardware-Cartridge) allows the sensor to connect the controller and provides outputs for controlling actuators like misting pumps, lighting, ... .
+In the Freya Controller, the [Freya Sense'n'Drive Hardware Cartridge](https://github.com/Freya-Vivariums/Freya-SenseAndDrive-Hardware-Cartridge) allows the sensor to connect the controller and provides outputs for **controlling actuators** like misting pumps, lighting, ... .
 
-The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow) is where you define the control logic visually — creating rules and schedules that translate sensor readings into output commands, as simple or complex as your methodology requires.
+The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow) is where you define the **control logic** visually - creating rules and schedules that translate sensor readings into output commands, as simple or complex as your methodology requires.
 
 <br clear="left"/>
 
