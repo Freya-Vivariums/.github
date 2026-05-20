@@ -29,6 +29,31 @@ The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow)
 
 <br clear="left"/>
 
+## Certifications & Partners
+<a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
+    <img src="https://github.com/Freya-Vivariums/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
+</a>
+<p>
+    Freya is <b>Powered by Raspberry Pi</b> certified since February 2026.
+</p>
+<br clear="left"/>
+<a href="https://certification.oshwa.org/be000021.html" target="_blank" >
+    <img src="https://github.com/Freya-Vivariums/.github/blob/main/brand/oshw-certification-mark.png?raw=true" align="left" width="20%"/>
+</a>
+<p>
+    Freya is <b>Open Source Hardware</b> certified since May 2025.
+</p>
+<br clear="left"/>
+
+<a href="https://openinventionnetwork.com/" target="_blank" >
+    <img src="https://github.com/Freya-Vivariums/.github/blob/main/brand/oin-member.png?raw=true" align="left" width="20%"/>
+</a>
+<p>
+    Freya is developed under the <b>Open Invention Network</b> patent non-aggression cross-license
+</p>
+<br clear="left"/>
+
+
 ## Support us
 
 The **Freya Vivarium Control System is open source and free to use**. The organization behind Freya will never lock features behind a paywall. All hardware designs, software, and flows are open for anyone to use, modify, and share.
