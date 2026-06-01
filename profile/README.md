@@ -25,7 +25,7 @@ The [Freya Terra Sensor](https://github.com/Freya-Vivariums/Freya-Terra-Sensor) 
 
 In the controller, the [Freya Sense'n'Drive Hardware Cartridge](https://github.com/Freya-Vivariums/Freya-SenseAndDrive-Hardware-Cartridge) allows the sensor to connect to the controller and provides outputs for **controlling actuators** like misting pumps, lighting, ... .
 
-The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow) is where you define the **control logic** visually - creating rules and schedules that translate sensor readings into output commands, as simple or complex as your methodology requires.
+The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow) is where you define the **control logic** visually - creating rules and schedules that translate sensor readings into output commands, as simple or complex as your methodology requires. The **Dashboard** allows for monitoring the system and configuring basic variables.
 
 <br clear="left"/>
 
