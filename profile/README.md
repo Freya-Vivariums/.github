@@ -53,6 +53,14 @@ The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow)
 </p>
 <br clear="left"/>
 
+<a href="https://opensource.org/" target="_blank" >
+    <img src="https://i0.wp.com/opensource.org/wp-content/uploads/2022/03/osi_standard_logo_0_f6eae8bd0474088ce57799c580844a47_1000.png?w=1000&quality=80&ssl=1" align="left" width="5%"/>
+</a>
+<p>
+    Freya is distributed under <b>Open Source Initiative</b> approved licenses.
+</p>
+<br clear="left"/>
+
 
 ## Support us
 
