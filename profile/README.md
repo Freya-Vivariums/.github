@@ -17,7 +17,7 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 ## How It Works
 
-<img src="../documentation/Freya_system.png" width="100%"/>
+<img src="../documentation/Freya_system.jpg" width="100%"/>
 
 <img src="../documentation/Freya_control_loop.png" align="left" width="50%"/>
 
