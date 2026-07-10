@@ -19,7 +19,7 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 <img src="../documentation/Freya_system.jpg" align="right" width="55%"/>
 
-The Freya system consists of a controller build around Raspberry Pi and a purpose-built sensor. The sensor is positioned in the vivarium for measuring the conditions, and the controller is installed with electrotechnics for driving vivarium equipment - misting systems, heaters, lighting , ... - through industry-standard 24V signals.
+The Freya Vivarium Control System consists of a controller build around Raspberry Pi with the Edgeberry extension kit and a purpose-built sensor. The sensor is positioned in the vivarium for measuring the conditions, and the controller is installed with electrotechnics for driving vivarium equipment - misting systems, heaters, lighting , ... - through industry-standard 24V signals.
 
 <br clear="right"/>
 
