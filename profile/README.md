@@ -36,6 +36,16 @@ The [Freya Node-RED Flow](https://github.com/Freya-Vivariums/Freya-NodeRED-flow)
 
 <br clear="left"/>
 
+## Getting Started
+
+Lorem ipsum installatii dolores si amet
+
+```
+wget -O install.sh https://github.com/Freya-Vivariums/Freya-Vivarium-Control-System/releases/latest/download/install.sh;
+chmod +x ./install.sh;
+sudo ./install.sh;
+```
+
 ## Certifications & Partners
 <a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
     <img src="https://github.com/Freya-Vivariums/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
