@@ -17,7 +17,12 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 ## How It Works
 
-<img src="../documentation/Freya_system.jpg" width="100%"/>
+<img src="../documentation/Freya_system.jpg" align="right" width="50%"/>
+
+Powered by Raspberry Pi, Freya consists of a controller and a sensor lorem ipsum vivarium dolores si amet ...
+
+<br clear="right"/>
+
 
 <img src="../documentation/Freya_control_loop.png" align="left" width="50%"/>
 
