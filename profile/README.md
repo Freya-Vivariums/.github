@@ -17,14 +17,14 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 ## How It Works
 
-<img src="../documentation/Freya_system.jpg" align="right" width="50%"/>
+<img src="../documentation/Freya_system.jpg" align="right" width="55%"/>
 
 Powered by Raspberry Pi, Freya consists of a controller and a sensor lorem ipsum vivarium dolores si amet ...
 
 <br clear="right"/>
 
 
-<img src="../documentation/Freya_control_loop.png" align="left" width="50%"/>
+<img src="../documentation/Freya_control_loop.png" align="left" width="45%"/>
 
 Freya's architecture is built around the **monitor and control loop** - the same approach used across climate control, agriculture, and industrial automation - applied to vivarium environments.
 
