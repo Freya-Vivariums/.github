@@ -19,7 +19,7 @@ Connect with the [Freya community on Reddit](https://www.reddit.com/r/FreyaVivar
 
 <img src="../documentation/Freya_system.jpg" align="right" width="55%"/>
 
-Powered by Raspberry Pi, Freya consists of a controller and a sensor lorem ipsum vivarium dolores si amet ...
+Powered by Raspberry Pi, the Freya system consists of a controller and a sensor. The sensor is positioned in the vivarium for measuring the conditions and the controller is installed with peripheral equipment.
 
 <br clear="right"/>
 
